@@ -21,3 +21,7 @@ Check out the Project Overview in this GitHub Repo for the guide to talking poin
 
 PRESENTATION SLIDES LINK:
 https://docs.google.com/presentation/d/1In0RzdLSDSjwcaLHoSRAxDsK3Qj-OIz441iqyuU-IpE/edit?usp=drivesdk
+
+
+ZOOM VIDEO LINK:
+https://drive.google.com/file/d/1nyR5DQ8lh17_pHQLPgPe8GQ6Qb8XAxI5/view?usp=drivesdk
